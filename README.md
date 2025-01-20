@@ -1,7 +1,6 @@
 # 🛒 Predictive Analysis of Commercial Price System
 
-Welcome to the **Predictive Analysis of Commercial Price System** repository! 
-This project involves web scraping to compare product prices and utilizing AI to predict price trends for commercial systems. The goal is to provide actionable insights and help users make informed decisions in dynamic pricing scenarios.
+Welcome to the **Predictive Analysis of Commercial Price System** repository! This project involves web scraping to compare product prices and utilizing AI to predict price trends for commercial systems. The goal is to provide actionable insights and help users make informed decisions in dynamic pricing scenarios.
 
 ---
 
